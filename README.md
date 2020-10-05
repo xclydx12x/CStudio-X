@@ -7,7 +7,7 @@
 # CStudio X is a C/C++ IDE for Windows, Mac, and Linux.
 # CStudio X comes with a very basic and simple C/C++ compiler.
 
-### INSTALLATION AND BUILD ###
+### INSTALLATION AND BUILD (LINUX) ###
 # First, download the zip file or clone the git repository.
 ```
 git clone https://github.com/AnonAmazing/CStudio-X.git
