@@ -3,13 +3,12 @@
 #  CStudio X   #
 ################
 
-```diff
-- #ABOUT
-```
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) #ABOUT
 CStudio X is a C/C++ IDE for Windows, Mac, and Linux. 👨‍💻
 CStudio X comes with a very basic and simple C/C++ compiler. 👍👨‍💻
 
-<p style="color:#449EC2";>INSTALLATION AND BUILD (LINUX)</p>
+```diff
+- 
 # First, download the zip file or clone the git repository.
 ```
 git clone https://github.com/AnonAmazing/CStudio-X.git
