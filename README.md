@@ -3,7 +3,7 @@
 #  CStudio X   #
 ################
 
-#```diff
+```diff
 - ABOUT
 ```
 # CStudio X is a C/C++ IDE for Windows, Mac, and Linux. 👨‍💻
