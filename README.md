@@ -3,7 +3,7 @@
 #  CStudio X   #
 ################
 
-<p style="color:#32a875";>ABOUT</p>
+#<p style="color:#32a875";>ABOUT</p>
 # CStudio X is a C/C++ IDE for Windows, Mac, and Linux. 👨‍💻
 # CStudio X comes with a very basic and simple C/C++ compiler. 👍👨‍💻
 
