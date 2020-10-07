@@ -3,7 +3,8 @@
 #  CStudio X   #
 ################
 
-- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) #ABOUT
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
+# ABOUT
 CStudio X is a C/C++ IDE for Windows, Mac, and Linux. 👨‍💻
 CStudio X comes with a very basic and simple C/C++ compiler. 👍👨‍💻
 
