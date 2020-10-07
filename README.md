@@ -24,4 +24,3 @@ And you're good to go!
 # Donation and Contributions
 Pull request, issues, and contributions are welcome!
 Donations are accepted thru <a href="https://flattr.com/@AnonAmazing">Flattr.com</a>!
-</body>
